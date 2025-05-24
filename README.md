@@ -75,7 +75,7 @@ webhook_url = "https://script.google.com/macros/s/.../exec"
 </p>
 
 
-Please note: If you see a "Bad Request Error 400" when opening **Extensions**, it may be caused by multiple Google accounts logged in simultaneously. To fix this, please log out of extra accounts or open the browser in incognito mode.
+Note: If you see a "Bad Request Error 400" when opening **Extensions**, it may be caused by multiple Google accounts logged in simultaneously. To fix this, please log out of extra accounts or open the browser in incognito mode.
 
 ## Build Executable
 
