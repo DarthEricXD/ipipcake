@@ -83,4 +83,6 @@ You can use PyInstaller to generate an `.exe` file. Run this command in the term
 
 ```bash
 pyinstaller --noconsole --onefile --icon=media\cake.ico --add-data "media\cake.png;media" --add-data "media\click_sound.wav;media" ipipcake.py
+```
 
+Note: The ipipcake.exe file included in this repository does not have the Google Sheets Web App URL configured. It will only display IP information locally.
